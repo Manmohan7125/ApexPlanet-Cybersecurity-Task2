@@ -1,0 +1,14 @@
+# Task 2 Checklist
+- [ ] Reconnaissance
+- [ ] Nmap TCP/UDP/service/OS scans
+- [ ] Nmap report
+- [ ] OpenVAS/Nessus scan on Metasploitable2
+- [ ] Vulnerability report
+- [ ] HTTP/FTP/DNS Wireshark analysis
+- [ ] FTP credential filtering in lab
+- [ ] SYN-flood analysis in lab
+- [ ] iptables allow/deny
+- [ ] Port-scan blocking
+- [ ] Screenshots added
+- [ ] 5-minute demo video
+- [ ] Public GitHub repository
